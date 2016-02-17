@@ -1,0 +1,12 @@
+{
+    "name": "vluzrmos/tiffinfo",
+    "type": "library",
+    "description": "Simple php wrapper for tiffinfo",
+    "keywords": ["tiff", "tiffinfo"],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vluzrmos\\": "src/"
+        }
+    }
+}
