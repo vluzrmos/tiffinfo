@@ -1,6 +1,6 @@
 # TIFFInfo 
 
-This is a (LibTIFF)[http://www.libtiff.org/index.html] wrapper.
+This is a simple [LibTIFF](http://www.libtiff.org/index.html) wrapper.
 
 # Installation
 
